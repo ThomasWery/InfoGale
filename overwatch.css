@@ -1,0 +1,61 @@
+
+body {
+  background-image: url("overwatchlogo.jpg");
+   background-repeat:no-repeat;
+	background-size:cover;
+    background-position:center center;
+
+}
+
+
+.redtitre {
+
+	font-family:Arial, sans-serif;
+	color:red;
+}
+
+
+
+
+
+
+
+
+
+
+.blanc {
+	color:white;
+	font-family:Arial, sans-serif;
+}
+.titre {
+
+	font-family:Arial, sans-serif;
+	color:white;
+}
+ 
+ a:hover{
+color:blue
+font-size:200%;
+
+}
+
+.black {
+
+	color:black;
+}
+.lien {
+ 
+ font-family: Arial, sans-serif;
+ text-decoration: none ; 
+ border:0;
+ color:white;
+}
+
+.divacceuil {
+
+background-color: black;
+}
+.blue {
+	color:grey;
+	font-family:Arial, sans-serif;
+}

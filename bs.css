@@ -1,0 +1,51 @@
+
+h2{
+	text-align: center;
+	font-size: 2em;
+	color: aqua;
+	font-family:Arial, sans-serif;
+}
+body {
+    background-repeat: no-repeat;	
+	background-size: cover;
+	background-position: all;
+	background-image: url("Brawl-Stars-imagen-destacada.jpg");
+}
+.battle{
+	text-align: center;
+
+	font-family:Arial, sans-serif;
+	
+}
+.divacceuil {
+
+background-color: black;
+}
+.divindex {
+background-image: url("image.jpg");
+background-repeat:no-repeat;
+background-size: auto;
+background-position: center;
+}
+a:hover {
+
+
+	color: blue;
+}
+.lien {
+ 
+ font-family: Arial, sans-serif;
+ text-decoration: none ; 
+ border:0;
+ color:white;
+
+ 
+}
+.blue {
+
+
+		text-align: center;
+	font-size: 2em;
+	color: blue;
+	font-family:Arial, sans-serif;
+}

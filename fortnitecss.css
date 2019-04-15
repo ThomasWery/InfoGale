@@ -1,0 +1,48 @@
+
+body {
+  background-image: url("fortnite.jpg");
+  background-repeat:no-repeat;
+	background-size:cover;
+    background-position:center center;}
+ 
+
+.blanc {
+	color:white;
+	font-family:Arial, sans-serif;
+}
+
+.titre {
+
+	font-family:Arial, sans-serif;
+	color:white;
+}
+ 
+ a:hover {
+color:blue
+
+
+}
+
+.black {
+
+	color:black;
+}
+.divacceuil {
+
+background-color: black;
+}
+
+.lien {
+ 
+ font-family: Arial, sans-serif;
+ text-decoration: none ; 
+ border:0;
+ color:white;
+
+ 
+}
+.redtitre {
+
+	font-family:Arial, sans-serif;
+	color:red;
+}

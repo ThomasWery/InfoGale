@@ -1,0 +1,76 @@
+body {
+	background-repeat: no-repeat;
+	background-image: url("minecraftlogo.jpg");
+	background-size:cover;
+    background-position:center center;}
+	
+
+}
+
+
+
+.blanc {
+	color:white;
+}
+.titre {
+
+	font-family:Arial, sans-serif;
+	color:white;
+}
+.black {
+
+	color:black;
+	font-family:Arial, sans-serif;
+	margin-right: 100px;
+}
+.blue {
+
+	color:blue;
+	font-size:150%;
+}
+.lien {
+ 
+ font-family: Arial, sans-serif;
+ text-decoration: none ; 
+ border:0;
+ color:white;
+ 
+}
+.jeu {
+ 
+ font-family: Arial, sans-serif;
+ text-decoration: none ; 
+ border:0;
+ color:red;
+ 
+}
+.divacceuil {
+
+background-color: black;
+}
+.divindex {
+background-image: url("image.jpg");
+background-repeat: no-repeat;
+background-size: auto;
+background-position: center;
+}
+.redtitre {
+
+	font-family:Arial, sans-serif;
+	color:red;
+}
+.lienblack {
+
+	color:black;
+	font-family:Arial, sans-serif;
+	text-decoration: none ; 
+ 	border:0;
+}
+.text {
+
+	
+	font-family:Arial, sans-serif;
+	margin-right: 100px;
+	margin-left: 100px;
+	text-align: center;
+}

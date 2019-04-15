@@ -1,0 +1,45 @@
+h1{
+text-align: center;	
+color: red;
+
+font-family:Arial, sans-serif;
+}
+h3{
+text-align: center;	
+color: blue;
+
+font-family:Arial, sans-serif;
+}
+body {
+    background-repeat: no-repeat;	
+	background-size: cover;
+	background-position: all;
+	background-image: url("loup.jpg");
+}
+h2{
+	text-align: center;
+	font-family:Arial, sans-serif;
+}
+.titre {
+
+	font-family:Arial, sans-serif;
+	color:white;
+}
+ 
+ a:hover {
+color:blue
+
+
+}
+.divacceuil {
+
+background-color: black;
+}
+
+.lien {
+ 
+ font-family: Arial, sans-serif;
+ text-decoration: none ; 
+ border:0;
+ color:white;
+} 
