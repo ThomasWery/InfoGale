@@ -1,26 +1,24 @@
 body {
 	background-repeat: no-repeat;
-	background-image: url("image.jpg");
+	background-image: url("rl.jpg");
 	background-size:cover;
-    background-position:all;}
+    background-position:all;
 	
 
 }
 
 
 .blanc {
-	color:white;
+	color:#00FF00;
+	font-family:Arial, sans-serif;
 }
 .titre {
 
 	font-family:Arial, sans-serif;
 	color:white;
 }
-.textediv {
 
-	font-family:Arial, sans-serif;
-	color:black;
-}
+
 .black {
 
 	color:black;
@@ -36,15 +34,6 @@ body {
  text-decoration: none ; 
  border:0;
  color:white;
-
- 
-}
-.liendiv {
- 
- font-family: Arial, sans-serif;
- text-decoration: none ; 
- border:0;
- color:black;
 
  
 }
@@ -70,4 +59,14 @@ a:hover {
 
 
 	color: blue;
+}
+.redtitre {
+
+	font-family:Arial, sans-serif;
+	color:red;
+}
+.garage {
+
+	width: 540px;
+
 }
